@@ -1,0 +1,9 @@
+E:\Work\cont\ContactAPI\ContactAPI.Infrastructure\bin\Debug\netcoreapp3.1\ContactAPI.Infrastructure.deps.json
+E:\Work\cont\ContactAPI\ContactAPI.Infrastructure\bin\Debug\netcoreapp3.1\ContactAPI.Infrastructure.dll
+E:\Work\cont\ContactAPI\ContactAPI.Infrastructure\bin\Debug\netcoreapp3.1\ContactAPI.Infrastructure.pdb
+E:\Work\cont\ContactAPI\ContactAPI.Infrastructure\obj\Debug\netcoreapp3.1\ContactAPI.Infrastructure.csprojAssemblyReference.cache
+E:\Work\cont\ContactAPI\ContactAPI.Infrastructure\obj\Debug\netcoreapp3.1\ContactAPI.Infrastructure.AssemblyInfoInputs.cache
+E:\Work\cont\ContactAPI\ContactAPI.Infrastructure\obj\Debug\netcoreapp3.1\ContactAPI.Infrastructure.AssemblyInfo.cs
+E:\Work\cont\ContactAPI\ContactAPI.Infrastructure\obj\Debug\netcoreapp3.1\ContactAPI.Infrastructure.csproj.CoreCompileInputs.cache
+E:\Work\cont\ContactAPI\ContactAPI.Infrastructure\obj\Debug\netcoreapp3.1\ContactAPI.Infrastructure.dll
+E:\Work\cont\ContactAPI\ContactAPI.Infrastructure\obj\Debug\netcoreapp3.1\ContactAPI.Infrastructure.pdb
